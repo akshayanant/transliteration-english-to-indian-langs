@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><TransliterationCorpus CorpusID = "NEWS2012-Training-EnHi-13937" SourceLang = "English" TargetLang = "Hindi" CorpusType = "Training" CorpusSize = "13937" CorpusFormat = "UTF8"> 
+<Name ID="1">
+<SourceName> -- put source name here --     </SourceName>
+<TargetName ID="1"> --put target name here--       </TargetName>
+</Name>
+</TransliterationCorpus>
